@@ -1,4 +1,5 @@
 # On the Fairness, Diversity and Reliability of Text-to-Image Generative Models
+### First Author / Maintainer: Jordan Vice
 ![Screenshot from 2025-05-06 14-10-36](https://github.com/user-attachments/assets/d9e3b2e4-6a36-47bd-9461-acb4c94ee426)
 
 This repository provides an evaluation suite for probing **reliability**, **fairness**, and **diversity** in text-to-image generative models. The methods are designed to detect biased behaviors, measure robustness to embedding perturbations, and retrieve the provenance of unreliable or manipulated outputs.
